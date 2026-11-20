@@ -1,6 +1,6 @@
 package ppbo.uas.model;
 
-abstract class GObject implements KeyValueDetailLabel {
+public abstract class GObject implements KeyValueDetailLabel {
     private String label;
 
     public GObject(String label){
