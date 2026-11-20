@@ -1,5 +1,5 @@
 package ppbo.uas.view;
 
-public class KubusGObjectForm {
+public class KubusGObjectForm extends GObjectForm<Kubus> {
     
 }

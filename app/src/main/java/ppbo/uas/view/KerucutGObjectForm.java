@@ -1,5 +1,5 @@
 package ppbo.uas.view;
 
-public class KerucutGObjectForm {
+public class KerucutGObjectForm extends GObjectForm<Kerucut> {
     
 }

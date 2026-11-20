@@ -1,5 +1,5 @@
 package ppbo.uas.view;
 
-public class BalokGObjectForm {
+public class BalokGObjectForm extends GObjectForm<Balok> {
     
 }

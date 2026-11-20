@@ -7,7 +7,6 @@ import ppbo.uas.view.*;
 public class App {
     public static void main(String[] args) {
         List<GObject> allObjects = new ArrayList<>();
-
         GObjectForm<Persegi> persegiForm = new PersegiGObjectForm(allObjects);
         GObjectForm<SegiEmpat> segiEmpatForm = new SegiEmpatGObjectForm(allObjects);
         GObjectForm<Lingkaran> lingkaranForm = new LingkaranGObjectForm(allObjects);
